@@ -1,5 +1,8 @@
+| Date | Title | Speaker | Type |   
+| ---- | ----- | ------- | ---- |
+| 06/12/2012 | Recent Trends in Personalization at Netflix | Justin Basilico | Expo-Workshop |
+
 ## Recent Trends in Personalization at Netflix
- Speaker: Justin Basilico 
 
 ### Why do we personalize? 
 - Help members find content for member satisfaction and retention -> "Spark joy"
