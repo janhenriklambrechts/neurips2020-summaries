@@ -1,23 +1,5 @@
-# Expo: Machine Learning at Netflix 
-
-## Introduction, Machine Learning at Netflix
-- Speaker: Yves Raimond
-- Leads Algorithms Team at Netflox
-
-- 14 years ago, Netflix AI challenge was introduced to predict 5 star ratings 
-- Now: From DVD by mail to worldwide, streaming and original content
-- Applied ML Research has grown impressively as well 
-- This expo: **Spotlight of the research Netflix cares about and some of their solutions**
-
-- Netflix focus on these areas:
-    -> Personalization
-    -> Content
-    -> Systems & Infrastructure 
-    -> Studio, streaming, ML Platform (Not covered in these workshops)
-
-
 ## Recent Trends in Personalization at Netflix
-- Speaker: Justin Basilico 
+ Speaker: Justin Basilico 
 
 ### Why do we personalize? 
 - Help members find content for member satisfaction and retention -> "Spark joy"
