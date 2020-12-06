@@ -1,8 +1,8 @@
+## Recent Trends in Personalization at Netflix
+
 | Date | Title | Speaker | Type |   
 | ---- | ----- | ------- | ---- |
 | 06/12/2012 | Recent Trends in Personalization at Netflix | Justin Basilico | Expo-Workshop |
-
-## Recent Trends in Personalization at Netflix
 
 ### Why do we personalize? 
 - Help members find content for member satisfaction and retention -> "Spark joy"
@@ -14,7 +14,6 @@
   -> Cold start problem: lots of new users
 
 ### How do we tackle personalization?
-4 Trends 
 
  **Causality**
 - Most recommendation algos are correlationalm but tis leads to problems: ***Did you watch a movie because you liked it or because we recommended it to you?***
