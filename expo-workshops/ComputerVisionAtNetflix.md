@@ -2,7 +2,7 @@
 
 | Date | Title | Speaker | Type |   
 | ---- | ----- | ------- | ---- |
-| 06/12/2012 | Computer Vision at Netflix | Cristina Segalin, Dong Liu | Expo-Workshop |
+| 06/12/2020 | Computer Vision at Netflix | Cristina Segalin, Dong Liu | Expo-Workshop |
 
 ### Introduction
 - Automating Creative Artworks from Netflix Series for personalization 
