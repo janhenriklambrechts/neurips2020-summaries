@@ -11,3 +11,4 @@ This repo includes summaries of talks and workshops I followed at NeurIPS 2020.
 
 ### Orals & Spotlights
 - [Representation/Relational 💍](./orals-spotlights/RepresentationRelational.md)
+- [Deep Learning 💡](./orals-spotlights/DeepLearning.md)
